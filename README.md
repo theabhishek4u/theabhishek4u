@@ -30,12 +30,13 @@
 "short_name": "Abhi",
 "works_at": ["The Tech Basket","Quoted Tale"]
 "social": {
-  "X": "AmitTheGamer",
+  "X": "theabhishek4u",
+ "Linkdin": "theabhishek4u",
 },
 "favourite_languages": [
   "JavaScript",
   "TypeScript",
-  "Svelte"
+  "Java"
   ]
 }
 ```
