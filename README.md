@@ -8,11 +8,7 @@
 
 
 
-
-<br clear="both">
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=amitind&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=20" height="150" alt="streak graph"  />
-</div>
+>
 
 <img src="https://raw.githubusercontent.com/amitind/amitind/output/snake.svg" alt="Snake animation" />
 
