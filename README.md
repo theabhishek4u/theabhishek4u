@@ -40,15 +40,6 @@ I love turning ideas into real-world digital products that solve meaningful prob
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,figma" />
 </p>
 
----
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://codepen.io/cpdexabhi" target="blank"><img src="https://skillicons.dev/icons?i=codepen" height="40"/></a>
-<a href="https://twitter.com/theabhishek4u" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://linkedin.com/in/theabhishek4u" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://instagram.com/theabhishek4u" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
 
 ---
 
