@@ -1,35 +1,81 @@
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<h3 align="center">🚀 Founder @ AYPHiC AI | Full Stack Developer | AI Builder</h3>
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
-
-
-
-<h3 align="center">A passionate frontend developer </h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🌱 I’m currently learning **React, and Data Structure and Algorithms**
-
-
-- 💬 Ask me about **HTML, CSS, JavaScript, Data Structures**
-
-- 📫 How to reach me **theabhishekyt@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/cpdexabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abhinavay" height="30" width="40" /></a>
-<a href="https://twitter.com/theabhishek4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhinavvay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theabhishek4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinavay" height="30" width="40" /></a>
-<a href="https://instagram.com/theabhishek4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhinavay" height="30" width="40" /></a>
+<p align="center">
+I am a passionate Full Stack Developer who builds modern, scalable web applications and AI-powered tools.  
+I love turning ideas into real-world digital products that solve meaningful problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a></p>
+<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+---
 
-<img src="https://raw.githubusercontent.com/amitind/amitind/output/snake.svg" alt="Snake animation" />
+### 💡 About Me
+- 🚀 Founder of **AYPHiC AI** (AI Tools Platform)  
+- 💻 Full Stack Developer (Frontend + Backend)  
+- ⚡ Building AI-powered SaaS products  
+- 🌱 Currently learning **System Design & Advanced AI Integration**  
+- 🎯 Goal: Create impactful & scalable tech products  
 
+---
 
+### 🛠️ Tech Stack
 
+#### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
+#### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
+#### 🧠 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,js" />
+</p>
 
+#### 🗄️ Database & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,figma" />
+</p>
 
+---
+
+### 🚀 Projects
+- 🤖 **AYPHiC AI** – AI tools platform for creators  
+- 📥 **YouTube Tools** – Thumbnail, Tag & Transcript extractor  
+- 🎨 UI/UX focused modern web apps  
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="https://codepen.io/cpdexabhi" target="blank"><img src="https://skillicons.dev/icons?i=codepen" height="40"/></a>
+<a href="https://twitter.com/theabhishek4u" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://linkedin.com/in/theabhishek4u" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://instagram.com/theabhishek4u" target="blank"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=theabhishek4u&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theabhishek4u&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhishek4u&theme=tokyo-night" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/amitind/amitind/output/snake.svg" alt="snake"/>
+</p>
