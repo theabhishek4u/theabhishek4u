@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">🚀 Founder @ AYPHiC AI | Full Stack Developer | AI Builder</h3>
 
 <p align="center">
 I am a passionate Full Stack Developer who builds modern, scalable web applications and AI-powered tools.  
@@ -40,13 +39,6 @@ I love turning ideas into real-world digital products that solve meaningful prob
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,figma" />
 </p>
-
----
-
-### 🚀 Projects
-- 🤖 **AYPHiC AI** – AI tools platform for creators  
-- 📥 **YouTube Tools** – Thumbnail, Tag & Transcript extractor  
-- 🎨 UI/UX focused modern web apps  
 
 ---
 
