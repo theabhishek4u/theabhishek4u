@@ -10,7 +10,7 @@ I love turning ideas into real-world digital products that solve meaningful prob
 ---
 
 ### 💡 About Me
-- 🚀 Founder of **AYPHiC AI** (AI Tools Platform)  
+ 
 - 💻 Full Stack Developer (Frontend + Backend)  
 - ⚡ Building AI-powered SaaS products  
 - 🌱 Currently learning **System Design & Advanced AI Integration**  
