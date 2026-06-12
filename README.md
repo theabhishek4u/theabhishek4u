@@ -1,4 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%"/>
+
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+AYPHiC+%E2%80%94+AI+Video+SaaS+%F0%9F%8E%AC;MERN+Stack+%7C+GenAI+%7C+React;GDG+Lucknow+Community+Member+%F0%9F%87%AE%F0%9F%87%B3)
+
+
 
 <p align="center">
 I am a passionate Full Stack Developer who builds modern, scalable web applications and AI-powered tools.  
