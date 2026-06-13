@@ -64,9 +64,3 @@ I love turning ideas into real-world digital products that solve meaningful prob
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhishek4u&theme=tokyo-night" />
 </p>
 
----
-
-### 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/amitind/amitind/output/snake.svg" alt="snake"/>
-</p>
