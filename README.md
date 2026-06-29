@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abhishek%20Kumar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=57&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abhishek%20Kumar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Full%20Stack%20Developer%20|%20WordPress%20Developer&descAlignY=57&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Scalable+Web+Applications;WordPress+Developer+%284%2B+Years%29;GDG+Lucknow+APL+Hackathon+Winner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Scalable+Web+Applications;WordPress+Developer+%284%2B+Years%29;Building+AI-powered+Web+Applications;GDG+Lucknow+APL+Hackathon+Winner"/>
 
 </div>
 
@@ -10,30 +10,30 @@
 
 # 👋 About Me
 
-I'm **Abhishek Kumar**, a **Software Engineer** and **Full Stack Developer** passionate about building scalable web applications and solving real-world problems.
+I'm **Abhishek Kumar**, a **Full Stack Developer** with hands-on experience in building scalable web applications and solving real-world problems.
 
-I have hands-on experience in **React.js, Node.js, Express.js, JavaScript, MongoDB, MySQL, REST APIs, HTML, CSS, Tailwind CSS, and WordPress**.
+I work with **React.js, Node.js, Express.js, JavaScript, MongoDB, MySQL, HTML5, CSS3, Tailwind CSS, REST APIs, and WordPress** to build responsive, secure, and production-ready applications.
 
-Over the last **2+ years**, I have developed and managed production-ready websites, worked with freelance clients, completed a Full Stack Development internship, and built AI-powered products.
+Over the last **2+ years**, I have developed and managed multiple live WordPress websites, worked with freelance clients, completed a Full Stack Development internship, and built AI-powered tools and SaaS applications.
 
 ### 🏆 Highlights
 
-* 🥇 Winner — **GDG Lucknow Agentic Premier League (APL) Hackathon**
-* 💼 Full Stack Development Intern
-* 🌐 2+ Years WordPress Development Experience
-* 🚀 Built Multiple Production Websites
-* 📦 Developed Full Stack & AI-powered Applications
+* 🥇 Winner — GDG Lucknow Agentic Premier League (APL) Hackathon
+* 💼 Full Stack Development Internship
+* 🌐 4+ Years of WordPress Development
+* 🚀 Built & Managed Multiple Live Websites
 * 🤝 Freelancing Experience
+* ⚡ Building AI-powered Web Applications
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Currently Working On
 
-* Building Scalable Full Stack Applications
-* Backend Development & REST APIs
+* Full Stack Web Applications
 * AI-powered SaaS Products
-* WordPress Development
-* Clean Architecture & Software Engineering
+* REST API Development
+* WordPress Platforms
+* Scalable Backend Systems
 
 ---
 
@@ -63,16 +63,10 @@ Over the last **2+ years**, I have developed and managed production-ready websit
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
-### ☁️ Dev Tools
+### ☁️ Tools & Deployment
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,netlify" />
-</p>
-
-### 🌐 CMS
-
-<p>
-<img src="https://skillicons.dev/icons?i=wordpress" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,netlify,wordpress" />
 </p>
 
 ---
@@ -80,9 +74,9 @@ Over the last **2+ years**, I have developed and managed production-ready websit
 # 🌟 Featured Projects
 
 * 🚀 SarkariSewa — Government Jobs & Career Platform
-* 📂 TransferJet — Secure File Sharing Platform
+* 📂 TransferJet — Cross-Device File Sharing Platform
 * 🤖 AI-powered SaaS Applications
-* 🌐 Multiple Production Websites
+* 🌐 Production WordPress Websites
 * ⚡ Full Stack Web Applications
 
 ---
@@ -97,6 +91,6 @@ Over the last **2+ years**, I have developed and managed production-ready websit
 
 <div align="center">
 
-### ⭐ Always Learning • Always Building • Always Improving
+### ⭐ Passionate about Building Real-World Products
 
 </div>
