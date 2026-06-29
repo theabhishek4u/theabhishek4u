@@ -20,7 +20,7 @@ Over the last **2+ years**, I have developed and managed multiple live WordPress
 
 * 🥇 Winner — GDG Lucknow Agentic Premier League (APL) Hackathon
 * 💼 Full Stack Development Internship
-* 🌐 4+ Years of WordPress Development
+* 🌐 2+ Years of WordPress Development
 * 🚀 Built & Managed Multiple Live Websites
 * 🤝 Freelancing Experience
 * ⚡ Building AI-powered Web Applications
