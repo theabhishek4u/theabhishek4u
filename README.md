@@ -1,59 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abhishek&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abhishek%20Kumar&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=57&descSize=18"/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer;Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;Building+Scalable+Web+Applications;WordPress+Developer+%284%2B+Years%29;GDG+Lucknow+APL+Hackathon+Winner"/>
 
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+AYPHiC+%E2%80%94+AI+Video+SaaS+%F0%9F%8E%AC;MERN+Stack+%7C+GenAI+%7C+React;GDG+Lucknow+Community+Member+%F0%9F%87%AE%F0%9F%87%B3)
-
-
-
-<p align="center">
-I am a passionate Full Stack Developer who builds modern, scalable web applications and AI-powered tools.  
-I love turning ideas into real-world digital products that solve meaningful problems.
-</p>
-
-<img align="right" alt="coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
 
 ---
 
-### 💡 About Me
- 
-- 💻 Full Stack Developer (Frontend + Backend)  
-- ⚡ Building AI-powered SaaS products  
-- 🌱 Currently learning **System Design & Advanced AI Integration**  
-- 🎯 Goal: Create impactful & scalable tech products  
+# 👋 About Me
+
+I'm **Abhishek Kumar**, a **Software Engineer** and **Full Stack Developer** passionate about building scalable web applications and solving real-world problems.
+
+I have hands-on experience in **React.js, Node.js, Express.js, JavaScript, MongoDB, MySQL, REST APIs, HTML, CSS, Tailwind CSS, and WordPress**.
+
+Over the last **2+ years**, I have developed and managed production-ready websites, worked with freelance clients, completed a Full Stack Development internship, and built AI-powered products.
+
+### 🏆 Highlights
+
+* 🥇 Winner — **GDG Lucknow Agentic Premier League (APL) Hackathon**
+* 💼 Full Stack Development Intern
+* 🌐 2+ Years WordPress Development Experience
+* 🚀 Built Multiple Production Websites
+* 📦 Developed Full Stack & AI-powered Applications
+* 🤝 Freelancing Experience
 
 ---
 
-### 🛠️ Tech Stack
+# 🚀 Current Focus
 
-#### 🎨 Frontend
+* Building Scalable Full Stack Applications
+* Backend Development & REST APIs
+* AI-powered SaaS Products
+* WordPress Development
+* Clean Architecture & Software Engineering
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Languages
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,java,c,html,css" />
 </p>
 
-#### ⚙️ Backend
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite" />
+</p>
+
+### ⚙️ Backend
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-#### 🧠 Programming Languages
+### 🗄 Database
+
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,js" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
 </p>
 
-#### 🗄️ Database & Tools
+### ☁️ Dev Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma,vercel,netlify" />
 </p>
 
+### 🌐 CMS
 
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
 
 ---
 
-### ⚡ Activity Graph
+# 🌟 Featured Projects
+
+* 🚀 SarkariSewa — Government Jobs & Career Platform
+* 📂 TransferJet — Secure File Sharing Platform
+* 🤖 AI-powered SaaS Applications
+* 🌐 Multiple Production Websites
+* ⚡ Full Stack Web Applications
+
+---
+
+# 📈 GitHub Activity
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhishek4u&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theabhishek4u&theme=tokyo-night"/>
 </p>
 
+---
+
+<div align="center">
+
+### ⭐ Always Learning • Always Building • Always Improving
+
+</div>
